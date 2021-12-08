@@ -13,5 +13,5 @@ Generally, my philosophy for these questions is the following:
 
 
 Highlights:
-example of a [1 liner](problems/find_unique_binary_string/solution.py)
-solving [sodoku](main/problems/sudoku_solver/solution.py)
+example of a [1 liner](problems/find_unique_binary_string/solution.py)    
+solving [sodoku](main/problems/sudoku_solver/solution.py)    
