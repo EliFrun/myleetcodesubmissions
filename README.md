@@ -12,6 +12,6 @@ Generally, my philosophy for these questions is the following:
 * If the question is in the `hard` catagory, I will try to make it readable, and include comment and annotations to ensure I can read it when I review it again
 
 
-Highlights:
+## Highlights
 example of a [1 liner](problems/find_unique_binary_string/solution.py)    
 solving [sodoku](main/problems/sudoku_solver/solution.py)    
