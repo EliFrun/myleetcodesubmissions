@@ -1,6 +1,6 @@
 
 name: Sync Leetcode
-on: [push, pull_request]
+on: push
 jobs:
   build:
     runs-on: ubuntu-latest
